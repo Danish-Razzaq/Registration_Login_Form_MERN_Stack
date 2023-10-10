@@ -7,7 +7,8 @@ Responsive user Registration and Login (SignIn & SignUp) Form functionality usin
 
 ![regiter_form_screenshot](https://github.com/Danish-Razzaq/Registration_Login_Form_MERN_Stack/assets/125806096/2d2d973a-4106-48bf-b071-7f92eeedbc45)
 
-![Screenshot (220)](https://github.com/AkshataGanbote/Registration_Login_Form_MERN_Stack/assets/117456092/01b04452-4e8b-4a24-b680-28c93f2c7550)
+![Login_form_Screenshot ](https://github.com/Danish-Razzaq/Registration_Login_Form_MERN_Stack/assets/125806096/ace45efe-8342-4afc-90d7-2096c08318a4)
+
 
 
 ## ❓Requirements
